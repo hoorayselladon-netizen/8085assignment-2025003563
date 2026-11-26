@@ -1,0 +1,22 @@
+Project Description
+
+This project contains solutions for 8085 Microprocessor Assembly Language assignments.
+
+Files Description
+
+- "q1_add_carry.asm": Assembly code for Question 1.
+- "q2.asm": Assembly code for Question 2.
+- "q3.asm": Assembly code for Question 3.
+
+Tools Used
+
+- GNUSim8085
+- 8085 Assembly Language
+
+Author
+
+Name: Hoor Ahmed Moawad
+
+Notes
+
+All programs are written in 8085 Assembly Language and tested using GNUSim8085.
